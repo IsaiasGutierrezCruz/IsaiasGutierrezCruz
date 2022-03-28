@@ -13,7 +13,11 @@ You can follow me on the next sites to see content related to Data and Web Devel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasGutierrezCruz&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 Furthermore, I have a project called **CodigoMind** dedicated to helping other people in their learning path with the experience that I have gained in Data Science, Statistics, Mathematics, and Web Development. You can find this content in the CodigoMind's social networks:
 
 - 📺 [CodigoMind Youtube channel](https://www.youtube.com/channel/UC0u2CPyyD4LMto05x1jT1Bg/)
 - ⌨ [Github](https://github.com/CodigoMind)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoMind&hide=html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
