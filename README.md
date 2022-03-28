@@ -11,7 +11,7 @@ You can follow me on the next sites to see content related to Data and Web Devel
 - 🖋 [My blog](https://isaiasgutierrez.me/blog/)
 - 🐦 [My Twitter](https://twitter.com/isaias_gcruz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasGutierrezCruz&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasGutierrezCruz&hide=html&layout=compact)](https://github.com/IsaiasGutierrezCruz)
 
 ---
 
@@ -20,4 +20,4 @@ Furthermore, I have a project called **CodigoMind** dedicated to helping other p
 - 📺 [CodigoMind Youtube channel](https://www.youtube.com/channel/UC0u2CPyyD4LMto05x1jT1Bg/)
 - ⌨ [Github](https://github.com/CodigoMind)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoMind&hide=html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoMind&hide=html,jupyter%20notebook&layout=compact)](https://github.com/CodigoMind)
