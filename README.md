@@ -17,5 +17,3 @@ Furthermore, I have a project called **CodigoMind** dedicated to helping other p
 
 - 📺 [CodigoMind Youtube channel](https://www.youtube.com/channel/UC0u2CPyyD4LMto05x1jT1Bg/)
 - ⌨ [Github](https://github.com/CodigoMind)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasGutierrezCruz&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
