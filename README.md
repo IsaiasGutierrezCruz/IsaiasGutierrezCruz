@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Isaias
+#### Pharmacist Specialized in Data Science | Back-end developer
+Currently working at Odde, my own entrepreneur. My main focus these days is generating solutions and knowledge through data analysis of different topics like finance, my own business, biological and social systems, and others. To this end, I usually apply techniques of supervised and unsupervised learning in R and Python. I also like developing different data pipelines and services using back and front-end technologies. 
 
-<!--
-**IsaiasGutierrezCruz/IsaiasGutierrezCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also have a project called CodigoMind dedicated to helping other people in their learning path with the experience that I have gained in Data Science, Statistics, Mathematics, and Web Development. 
 
-Here are some ideas to get you started:
+Skills: Python / R / dplyr / scikit-learn / TensorFlow / Docker / Flask / PostgreSQL / MySQL / PowerBI 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can follow me on the next sites to see content related to Data and Web Development
+
+- 📊 [My LinkedIn profile](https://www.linkedin.com/in/abel-isa%C3%ADas-guti%C3%A9rrez-cruz-34532a205)
+- 💼 [My portfolio](https://isaiasgutierrez.me/)
+- 🖋 [My blog](https://isaiasgutierrez.me/blog/)
+- 🐦 [My Twitter](https://twitter.com/isaias_gcruz)
+
+CodigoMind's Social networks
+- 📺 [CodigoMind Youtube channel](https://www.youtube.com/channel/UC0u2CPyyD4LMto05x1jT1Bg/)
+- ⌨ [Github](https://github.com/CodigoMind)
