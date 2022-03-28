@@ -13,7 +13,9 @@ You can follow me on the next sites to see content related to Data and Web Devel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasGutierrezCruz&hide=html&layout=compact)](https://github.com/IsaiasGutierrezCruz)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaiasGutierrezCruz&repo=BiologiaDeRedesAplicadaAEnfermedadesDelSNC&hide=html)](https://github.com/IsaiasGutierrezCruz/BiologiaDeRedesAplicadaAEnfermedadesDelSNC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaiasGutierrezCruz&repo=BiologiaDeRedesAplicadaAEnfermedadesDelSNC&hide=html)](https://github.com/IsaiasGutierrezCruz/BiologiaDeRedesAplicadaAEnfermedadesDelSNC)
+##### Important projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaiasGutierrezCruz&repo=BiologiaDeRedesAplicadaAEnfermedadesDelSNC&hide=html)](https://github.com/IsaiasGutierrezCruz/BiologiaDeRedesAplicadaAEnfermedadesDelSNC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaiasGutierrezCruz&repo=ProyectoFlask&hide=html)](https://github.com/IsaiasGutierrezCruz/ProyectoFlask) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaiasGutierrezCruz&repo=DeepLearningSpecialization&hide=html)](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaiasGutierrezCruz&repo=SQLExercises&hide=html)](https://github.com/IsaiasGutierrezCruz/SQLExercises)
 
 ---
 
