@@ -13,6 +13,8 @@ You can follow me on the next sites to see content related to Data and Web Devel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasGutierrezCruz&hide=html&layout=compact)](https://github.com/IsaiasGutierrezCruz)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaiasGutierrezCruz&repo=BiologiaDeRedesAplicadaAEnfermedadesDelSNC&hide=html)](https://github.com/IsaiasGutierrezCruz/BiologiaDeRedesAplicadaAEnfermedadesDelSNC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaiasGutierrezCruz&repo=BiologiaDeRedesAplicadaAEnfermedadesDelSNC&hide=html)](https://github.com/IsaiasGutierrezCruz/BiologiaDeRedesAplicadaAEnfermedadesDelSNC)
+
 ---
 
 Furthermore, I have a project called **CodigoMind** dedicated to helping other people in their learning path with the experience that I have gained in Data Science, Statistics, Mathematics, and Web Development. You can find this content in the CodigoMind's social networks:
